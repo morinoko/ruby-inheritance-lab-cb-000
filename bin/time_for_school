@@ -23,7 +23,7 @@ steve.learn(some_knowledge)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
-jim.learn(some_knowledge) # get no method error
+# jim.learn(some_knowledge) # get no method error
 
 more_knowledge = avi.teach
 steve.learn(more_knowledge)
